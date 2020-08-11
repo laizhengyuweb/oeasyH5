@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 <title>使用正则表达式验证表单内容</title>
-	<link href="css/reg.css" rel="stylesheet">
+	
 </head>
 
 <body>
